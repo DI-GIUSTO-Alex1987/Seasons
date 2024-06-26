@@ -9,3 +9,104 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: astra-child
 Template: astra
 */
+
+
+
+/* Fonts */
+
+
+@font-face {
+    font-family: 'axon_lightregular';
+    src: url('./fonts/axon_light_regular-webfont.woff2') format('woff2'),
+         url('./fonts/axon_light_regular-webfont.woff') format('woff'),
+         url('./fonts/axon_light_regular-webfont.ttf') format('truetype'),
+         url('./fonts/axon_light_regular-webfont.svg#axon_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'geomanistbook';
+    src: url('./fonts/geomanistbook-webfont.woff2') format('woff2'),
+         url('./fonts/geomanistbook-webfont.woff') format('woff'),
+         url('./fonts/geomanistbook-webfont.ttf') format('truetype'),
+         url('./fonts/geomanistbook-webfont.svg#geomanistbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'geomanistextralight';
+    src: url('./fonts/geomanistextralight-webfont.woff2') format('woff2'),
+         url('./fonts/geomanistextralight-webfont.woff') format('woff'),
+         url('./fonts/geomanistextralight-webfont.ttf') format('truetype'),
+         url('./fonts/geomanistextralight-webfont.svg#geomanistextralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'geomanistlight';
+    src: url('./fonts/geomanistlight-webfont.woff2') format('woff2'),
+         url('./fonts/geomanistlight-webfont.woff') format('woff'),
+         url('./fonts/geomanistlight-webfont.ttf') format('truetype'),
+         url('./fonts/geomanistlight-webfont.svg#geomanistlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'geomanistregular';
+    src: url('./fonts/geomanistregular-webfont.woff2') format('woff2'),
+         url('./fonts/geomanistregular-webfont.woff') format('woff'),
+         url('./fonts/geomanistregular-webfont.ttf') format('truetype'),
+         url('./fonts/geomanistregular-webfont.svg#geomanistregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'geomanistthin';
+    src: url('./fonts/geomanistthin-webfont.woff2') format('woff2'),
+         url('./fonts/geomanistthin-webfont.woff') format('woff'),
+         url('./fonts/geomanistthin-webfont.ttf') format('truetype'),
+         url('./fonts/geomanistthin-webfont.svg#geomanistthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montgomeryregular';
+    src: url('./fonts/montgomery-webfont.woff2') format('woff2'),
+         url('./fonts/montgomery-webfont.woff') format('woff'),
+         url('./fonts/montgomery-webfont.ttf') format('truetype'),
+         url('./fonts/montgomery-webfont.svg#montgomeryregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
