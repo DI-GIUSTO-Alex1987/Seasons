@@ -131,4 +131,22 @@ Template: astra
 }
     */
 
+
+.ast-primary-header-bar {
+    background-color: transparent !important;
+    position: absolute !important;
+    width: 100vw !important;
+    border-bottom: none;
+}
+
+a.menu-link{
+    color: whitesmoke !important;
+    font-family: 'geomanistlight';
+}
+
+
+.ast-builder-social-element {
+    background: whitesmoke !important;
+}
+
     
