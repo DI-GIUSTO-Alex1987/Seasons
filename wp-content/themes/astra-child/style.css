@@ -149,4 +149,46 @@ a.menu-link{
     background: whitesmoke !important;
 }
 
+.bloc-absolute{
+    position: absolute !important;
+    margin-left: 50% !important;
+}
+
+p{
+
+    font-family: 'geomanistlight' !important;
+    margin-bottom: 5px !important;
+
+}
+
+
+.uagb-button__link{
+    font-family: 'geomanistregular' !important;
+    color: #aa7e45 !important;
+
+
+}
+
+
+.pos-btn{
+    margin-right: 35% !important;
+    margin-top: 10% !important;
+
+}
+
+.text-btn{
+    font-family: 'geomanistregular' !important;
+    color: #aa7e45 !important;
+
+}
+
+
+h2{
+    font-family: 'axon_lightregular';
+    color: whitesmoke !important;
+    font-size: xxx-large !important;
+
+}
+
+
     
